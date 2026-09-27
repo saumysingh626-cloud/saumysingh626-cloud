@@ -185,13 +185,11 @@ Production-style URL shortener.
 
 ---
 
-# 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saumysingh626-cloud&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saumysingh626-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</p>
 
 ---
 
